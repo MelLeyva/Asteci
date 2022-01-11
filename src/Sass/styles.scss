@@ -1,0 +1,9 @@
+.table{
+    display: grid;
+    grid-template-columns: 18% 18% 18% 18% 18% 18% 18% 18%;
+    gap: 15px;
+
+    li{
+        list-style: none;
+    }
+}
